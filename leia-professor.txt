@@ -1,0 +1,1 @@
+Acabei utilizando um banco só para fazer os dois exercícios. Por conta disso, nos exercícios de triggers não tem a criação das tabelas
